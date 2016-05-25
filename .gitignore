@@ -1,0 +1,4 @@
+target/
+shared/target/
+project/target/
+.idea/
